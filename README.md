@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajeshwardongare
 - 👀 I’m interested in developing web softwares
-- 🌱 I’m currently learning Azure, python
+- 🌱 I’m currently learning Java, Spring Framework, hazelcast, React, AngularJS, HTML5, JavaScript, GCP, Azure, AWS, cassandra, python, AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
